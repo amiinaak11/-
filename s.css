@@ -1,0 +1,35 @@
+body{
+    background-color : #dad09c;
+}
+
+.main {
+    background-color:  rgb(238, 186, 194);
+    height: 700px;
+    width: 700px;
+
+    margin-top: 105px;
+    border-radius: 25px ;
+    box-shadow: 0 15px 15px rgb(238, 132, 148);
+}
+.classimg1{
+    position: absolute;
+    left: 585px;
+}
+.classimg2{
+    position: absolute;
+    left: 1225px;
+}
+.h1class {
+    position: absolute;
+    left: 650px;
+    padding-top: 70px;
+    font-size: 2.5em;
+
+}
+.p1class {
+    position: absolute;
+    left: 650px;
+    padding-top: 170px;
+    font-size: 1.5em;
+
+}
